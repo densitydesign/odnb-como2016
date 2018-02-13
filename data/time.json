@@ -1,0 +1,64 @@
+{
+    "bars" : [
+        {
+            "century" : 1050,
+            "label" : "1050 - 1150",
+            "inter" : 169,
+            "local" : 53
+        },
+        {
+            "century" : 1150,
+            "label" : "1150 - 1250",
+            "inter" : 237,
+            "local" : 82
+        },
+        {
+            "century" : 1250,
+            "label" : "1250 - 1350",
+            "inter" : 337,
+            "local" : 109
+        },
+        {
+            "century" : 1350,
+            "label" : "1350 - 1450",
+            "inter" : 372,
+            "local" : 170
+        },
+        {
+            "century" : 1450,
+            "label" : "1450 - 1550",
+            "inter" : 1357,
+            "local" : 623
+        },
+        {
+            "century" : 1550,
+            "label" : "1550 - 1650",
+            "inter" : 3772,
+            "local" : 2684
+        },
+        {
+            "century" : 1650,
+            "label" : "1650 - 1750",
+            "inter" : 4618,
+            "local" : 3029
+        },
+        {
+            "century" : 1750,
+            "label" : "1750 - 1850",
+            "inter" : 11899,
+            "local" : 5435
+        },
+        {
+            "century" : 1850,
+            "label" : "1850 - 1950",
+            "inter" : 13734,
+            "local" : 2559
+        },
+        {
+            "century" : 1950,
+            "label" : "1950 - 2050",
+            "inter" : 338,
+            "local" : 198
+        }
+    ]
+}
